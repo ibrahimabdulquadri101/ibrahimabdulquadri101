@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (ibrahimabdulquadri446@gmail.com :)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Javascript doesn't come from react
+- ⚡ Fun fact: React-Nstive does come from react
  [![An image of @ibrahimabdulquadri101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ibrahimabdulquadri101)](https://holopin.io/@ibrahimabdulquadri101)
 
 <!---
